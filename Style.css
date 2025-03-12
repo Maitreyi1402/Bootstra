@@ -1,0 +1,16 @@
+.hero{
+    background: url(/Images/images\ \(16\).jpeg) no-repeat center center/cover;
+    color: rgb(0, 0, 0);
+    
+}
+
+.banana{
+    font-weight: 800;
+}
+
+.name{
+    margin: auto;
+    width: 50%;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 20px;
+}
